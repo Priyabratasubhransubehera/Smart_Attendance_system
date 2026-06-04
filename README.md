@@ -15,6 +15,17 @@ A comprehensive React-based **Employee Management System** with role-based acces
 
 ---
 
+## 👨‍💼 About the Project
+
+This project was created to demonstrate a production-ready employee management system with modern React practices, TypeScript, and Tailwind CSS. It showcases best practices in:
+- Component architecture and reusability
+- State management patterns
+- API integration and error handling
+- Responsive design principles
+- User experience optimization
+  
+---
+
 ## 🚀 Live Demo
 
 Experience the application live:
@@ -94,10 +105,6 @@ Try different roles using the quick login buttons or demo credentials below.
 ### **Dashboard Overview**
 ![Dashboard Screenshot](./src/assets/Screenshot%202026-06-04%20182706.png)
 *Modern dashboard with role-based widgets and analytics*
-
-### **Employee Management**
-![Employee Management](./src/imports/Screenshot_2026-05-29_024754.png)
-*Comprehensive employee management interface with search and filter capabilities*
 
 ---
 
@@ -374,28 +381,15 @@ MIT License - Feel free to use this project for learning or commercial purposes.
 
 See the [LICENSE](LICENSE) file for more details.
 
----
-
-## 👨‍💼 About the Project
-
-This project was created to demonstrate a production-ready employee management system with modern React practices, TypeScript, and Tailwind CSS. It showcases best practices in:
-- Component architecture and reusability
-- State management patterns
-- API integration and error handling
-- Responsive design principles
-- User experience optimization
-
----
 
 ## 📞 Contact & Support
 
 **Developer**: Priyabrata Subhran Subehera
 
 **For Questions, Issues, or Feedback:**
-- 📧 Email: priyabrata@peoplehub.com
+- 📧 Email: psubhransubehera@gmail.com
 - 🐙 GitHub: [@Priyabratasubhransubehera](https://github.com/Priyabratasubhransubehera)
-- 📱 LinkedIn: [Priyabrata Subhran](https://linkedin.com)
-- 🌐 Portfolio: [Your Portfolio](https://yourportfolio.com)
+- 📱 LinkedIn: [Priyabrata Subhran](https://www.linkedin.com/in/priyabrata-subhransu-behera-a3992a369/)
 
 **Found a Bug?** Please open an issue on GitHub with:
 - Description of the problem
@@ -416,6 +410,6 @@ This project was created to demonstrate a production-ready employee management s
 
 **[⬆ Back to Top](#-peoplehub---employee-management-system)**
 
-Made with ❤️ by [Priyabrata Subhran Subehera](https://github.com/Priyabratasubhransubehera)
+Made with by [Priyabrata Subhran Subehera](https://github.com/Priyabratasubhransubehera)
 
 </div>
