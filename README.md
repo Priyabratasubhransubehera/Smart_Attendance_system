@@ -30,7 +30,7 @@ This project was created to demonstrate a production-ready employee management s
 
 Experience the application live:
 
-**[→ View Live Demo](https://6a21758b4b7a9a20ec49d673--bejewelled-jelly-18e5af.netlify.app)**
+**[→ View Live Demo](smart-attendance-system-sigma-gray.vercel.app)**
 
 Try different roles using the quick login buttons or demo credentials below.
 
